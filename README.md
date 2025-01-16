@@ -6,6 +6,7 @@
 * DongKi Noh, Advanced Robotics Lab. LG Electronics Inc. (E-mail: dongki.noh@lge.com, dongki.noh@kaist.ac.kr)
 * Jeongsik Choi, Advanced Robotics Lab. LG Electronics Inc. (E-mail: jeongs.choi@lge.com)
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
+* SeungHwan Lee, the School of Electronic Engineering at KIT (Kumoh National Institute of Technology) (E-mail: leesh@kumoh.ac.kr)
 
 
 # Goals
