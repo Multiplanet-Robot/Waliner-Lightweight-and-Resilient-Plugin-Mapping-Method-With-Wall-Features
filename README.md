@@ -14,7 +14,7 @@
 
 # Demo
 <p align="center">
-<img src=https://github.com/user-attachments/assets/aa3015aa-ad64-4cd1-925f-e233dd7d8d57 width="300" height="300">
+<img src=https://github.com/user-attachments/assets/aa3015aa-ad64-4cd1-925f-e233dd7d8d57 width="600" height="600">
 </p>
 
 <p align="center">
