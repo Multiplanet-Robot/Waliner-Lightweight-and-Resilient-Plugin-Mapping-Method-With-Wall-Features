@@ -12,4 +12,4 @@
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
 
 
-# Goals
+# Demo
