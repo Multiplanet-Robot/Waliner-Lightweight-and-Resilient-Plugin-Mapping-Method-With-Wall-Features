@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/f5d0849b-ff5b-49e4-825a-9dcb6183045b>
+<img src=https://github.com/user-attachments/assets/f5d0849b-ff5b-49e4-825a-9dcb6183045b width="900" height="600">
 </p>
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/814071dd-697a-4753-aba1-024cc247b2c7>
+<img src=https://github.com/user-attachments/assets/814071dd-697a-4753-aba1-024cc247b2c7 width="900" height="600">
 </p>
 
