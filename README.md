@@ -44,7 +44,7 @@
 </p>
 
 # Quantitative results
-The proposed algorithm was evaluated on a public dataset (OpenLoris [28]),
+The proposed algorithm was evaluated on a public dataset (OpenLoris [28]) as well as our dataset.
 <p align="center">
 <img src=https://github.com/user-attachments/assets/729c70d0-2e84-4027-b625-194c4fdda9cf width="900" height="200">
 </p>
