@@ -49,3 +49,5 @@ The proposed algorithm was evaluated on a public dataset (OpenLoris [28]),
 <img src=https://github.com/user-attachments/assets/729c70d0-2e84-4027-b625-194c4fdda9cf width="900" height="200">
 </p>
 
+[28] Q. She, F. Feng, X. Hao, Q. Yang, C. Lan, V. Lomonaco, X. Shi, Z. Wang, Y. Guo, Y. Zhang, F. Qiao, and R. H. M. Chan, “OpenLORISObject:
+A robotic vision dataset and benchmark for lifelong deep learning,” in Proc. IEEE Int. Conf. Robot. Autom. (ICRA), 2020, pp.4767–4773.
