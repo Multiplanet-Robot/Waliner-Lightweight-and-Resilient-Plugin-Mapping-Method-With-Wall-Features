@@ -45,6 +45,6 @@
 
 # Quantitative results
 <p align="center">
-<img src=https://github.com/user-attachments/assets/729c70d0-2e84-4027-b625-194c4fdda9cf width="900" height="400">
+<img src=https://github.com/user-attachments/assets/729c70d0-2e84-4027-b625-194c4fdda9cf width="900" height="200">
 </p>
 
