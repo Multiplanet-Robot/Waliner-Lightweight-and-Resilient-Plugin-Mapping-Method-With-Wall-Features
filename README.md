@@ -43,3 +43,8 @@
 <img src=https://github.com/user-attachments/assets/64a62690-3a39-4afa-809e-fd35c4163a11 width="900" height="600">
 </p>
 
+# Quantitative results
+<p align="center">
+<img src=https://github.com/user-attachments/assets/729c70d0-2e84-4027-b625-194c4fdda9cf width="900" height="600">
+</p>
+
