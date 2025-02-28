@@ -33,6 +33,7 @@
 </p>
 
 # Environments
+## Lighting Conditions
 <p align="center">
 <img src=https://github.com/user-attachments/assets/465e7a3d-ac28-4a3b-858f-b3231d0037b1 width="900" height="600">
 </p>
