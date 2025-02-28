@@ -13,7 +13,7 @@
 
 
 # Demo
-# Performance comparison on ``Extended scenario \#2'' dataset (ours)
+## Performance comparison on ``Extended scenario \#2'' dataset (ours)
 <p align="center">
 <img src=https://github.com/user-attachments/assets/aa3015aa-ad64-4cd1-925f-e233dd7d8d57 width="900" height="600">
 </p>
@@ -22,12 +22,12 @@
 <img src=https://github.com/user-attachments/assets/083e8266-530a-4f34-823f-304c86d2d4d9  width="900" height="600">
 </p>
 
-# Performance comparison on ``Scenario I and II'' dataset (ours)
+## Performance comparison on ``Scenario I and II'' dataset (ours)
 <p align="center">
 <img src=https://github.com/user-attachments/assets/f5d0849b-ff5b-49e4-825a-9dcb6183045b width="900" height="900">
 </p>
 
-# Performance comparison on ``Extended scenario #1, #2, and #4'' dataset (ours)
+## Performance comparison on ``Extended scenario #1, #2, and #4'' dataset (ours)
 <p align="center">
 <img src=https://github.com/user-attachments/assets/814071dd-697a-4753-aba1-024cc247b2c7 width="900" height="600">
 </p>
