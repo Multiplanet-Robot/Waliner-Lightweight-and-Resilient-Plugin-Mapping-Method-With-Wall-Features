@@ -33,9 +33,13 @@
 </p>
 
 # Environments
-## Lighting Conditions
+## Lighting conditions
 <p align="center">
 <img src=https://github.com/user-attachments/assets/465e7a3d-ac28-4a3b-858f-b3231d0037b1 width="900" height="600">
 </p>
 
+## Moving objects (humans)
+<p align="center">
+<img src=https://github.com/user-attachments/assets/64a62690-3a39-4afa-809e-fd35c4163a11 width="900" height="600">
+</p>
 
