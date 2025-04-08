@@ -22,7 +22,7 @@ Additionally, we leverage VINS and RTAB-MAP for the initial pose estimation at t
 <img src=https://github.com/user-attachments/assets/6e9b728a-74b8-4b5f-93a5-0dcfe425759f width="1000" height="220">
 </p>
 
-## Why RTAB-MAP as a back-end in the proposed method 
+## Motivation for Employing RTAB-MAP as the Back-End of the Proposed Method
 
 
 # Demo
