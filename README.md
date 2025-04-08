@@ -47,6 +47,17 @@ Additionally, we leverage VINS and RTAB-MAP for the initial pose estimation at t
 
 RTAB-MAP supports various optimization methods, such as g2o and GTSAM. As mentioned earlier, our approach is designed as a plugin module, making it compatible with multiple back-end SLAM methods. Therefore, RTAB-MAP was selected as the back-end framework due to its flexibility and compatibility with different optimization engines.
 
+The detailed settings for optimization are summarized in the table below:
+The table below summarizes the optimization settings evaluated in Extended Scenario III.
+The Proposed configuration represents our final optimized setup, while A, B, and C are experimental cases tested to analyze the impact of different backend optimization strategies.
+
+|             | Algorithm | Robust Graph Optimization | Reject Loop Closures (Optimization error ratio threshold) | Iterations | GTSAM Optimization | g2o Solver/Optimization |
+|-------------|-----------|---------------------------|------------------------------------------------------------|------------|--------------------|-------------------------|
+| **Proposed**| GTSAM     | True                      | 0.0                                                        | 20         | Gauss Newton       | -                       |
+| **A**       | GTSAM     | False                     | 3.0                                                        | 20         | Gauss Newton       | -                       |
+| **B**       | g2o       | False                     | 3.0                                                        | 20         | -                  | CSparse/Levenberg       |
+| **C**       | g2o       | True                      | 0.0                                                        | 20         | -                  | CSparse/Levenberg       |
+
 # Demo
 ## Performance comparison on ``Extended scenario \#2'' dataset (ours)
 <p align="center">
