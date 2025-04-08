@@ -24,6 +24,7 @@ Additionally, we leverage VINS and RTAB-MAP for the initial pose estimation at t
 
 ## Motivation for Employing RTAB-MAP as the Back-End of the Proposed Method
 
+RTAB-MAP supports various optimization methods, such as g2o and GTSAM. As mentioned earlier, our approach is designed as a plugin module, making it compatible with multiple back-end SLAM methods. Therefore, RTAB-MAP was selected as the back-end framework due to its flexibility and compatibility with different optimization engines.
 
 # Demo
 ## Performance comparison on ``Extended scenario \#2'' dataset (ours)
