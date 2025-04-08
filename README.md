@@ -19,7 +19,7 @@
 The colored box represents our proposed method, which aims to refine the initial pose using the Manhattan frame (MF) generated from lines extracted from walls using a deep learning-based method and a neural processing unit (NPU). 
 Additionally, we leverage VINS and RTAB-MAP for the initial pose estimation at the $k$-th step and 3D mapping, respectively. The refined pose enhances the accuracy of the SLAM process, particularly in environments with challenging visual features.
 <p align="center">
-<img src=https://github.com/user-attachments/assets/6e9b728a-74b8-4b5f-93a5-0dcfe425759f width="1000" height="250">
+<img src=https://github.com/user-attachments/assets/6e9b728a-74b8-4b5f-93a5-0dcfe425759f width="1000" height="220">
 </p>
 
 ## RTAB-MAP as a back-end in the proposed method 
