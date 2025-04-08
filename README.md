@@ -18,7 +18,7 @@
 <pre>
 <code>
 @ARTICLE{Walinernoh24,
- title={Waliner: Lightweight and Resilient Plugin Mapping Method With Wall Features for Visually Challening Indoor Environments},
+ title={Waliner: Lightweight and Resilient Plugin Mapping Method With Wall Features for Visually Challenging Indoor Environments},
 	author={Noh, DongKi and Lee, Byunguk and Kim, Hanngyoo and Lee, SeungHwan and Kim, HyunSung and Kim, JuWon and Choi, Jeongsik and Baek, SeungMin},
 	journal={IEEE Robot. Automat. Lett.},
 	year={2025},  
