@@ -58,6 +58,10 @@ The Proposed configuration represents our final optimized setup, while A, B, and
 | **B**       | g2o       | False                     | 3.0                                                        | 20         | -                  | CSparse/Levenberg       |
 | **C**       | g2o       | True                      | 0.0                                                        | 20         | -                  | CSparse/Levenberg       |
 
+<p align="center">
+<img src=https://github.com/user-attachments/assets/6101467e-eb92-4e66-8a0a-45d12abed090 width="900" height="600">
+</p>
+
 # Demo
 ## Performance comparison on ``Extended scenario \#2'' dataset (ours)
 <p align="center">
