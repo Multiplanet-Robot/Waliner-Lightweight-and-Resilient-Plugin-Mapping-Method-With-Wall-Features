@@ -29,6 +29,9 @@
 </code>
 </pre>
 
+# Goal
+
+
 # Framework
 ## Overall SLAM pipeline with the proposed method, Waliner: 
 
