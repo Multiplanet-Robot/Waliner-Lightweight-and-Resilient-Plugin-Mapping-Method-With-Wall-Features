@@ -30,6 +30,8 @@
 </pre>
 
 # Goal
+This research aims to develop a lightweight and resilient SLAM plugin, called Waliner, for visually challenging indoor environments. By leveraging semantic wall features and the Manhattan World Assumption, the method improves mapping robustness without relying on additional sensors like LiDAR. Waliner is designed for real-time performance on embedded systems and can be seamlessly integrated into existing SLAM frameworks such as RTAB-MAP. It enhances both 2D and 3D mapping consistency while maintaining minimal computational overhead.
+
 
 
 # Framework
