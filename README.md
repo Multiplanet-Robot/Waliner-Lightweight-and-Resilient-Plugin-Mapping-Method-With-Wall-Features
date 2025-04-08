@@ -52,7 +52,7 @@ The table below summarizes the optimization settings evaluated in Extended Scena
 The Proposed configuration represents our final optimized setup, while A, B, and C are experimental cases tested to analyze the impact of different backend optimization strategies.
 
 |             | Algorithm | Robust Graph Optimization | Reject Loop Closures (Optimization error ratio threshold) | Iterations | GTSAM Optimization | g2o Solver/Optimization |
-|-------------|-----------|---------------------------|------------------------------------------------------------|------------|--------------------|-------------------------|
+|:-----------:|:---------:|:-------------------------:|:----------------------------------------------------------:|:----------:|:------------------:|:-----------------------:|
 | **Proposed**| GTSAM     | True                      | 0.0                                                        | 20         | Gauss Newton       | -                       |
 | **A**       | GTSAM     | False                     | 3.0                                                        | 20         | Gauss Newton       | -                       |
 | **B**       | g2o       | False                     | 3.0                                                        | 20         | -                  | CSparse/Levenberg       |
