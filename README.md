@@ -14,7 +14,7 @@
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
 
 
-# Citation (Accepted by RA-L, March 31, 2025)
+# Citation (Accepted for publication in RA-L, March 31, 2025)
 <pre>
 <code>
 @ARTICLE{Walinernoh24,
