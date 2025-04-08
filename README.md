@@ -14,7 +14,7 @@
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
 
 # Framework
-##Overall SLAM pipeline with the proposed method, Waliner: 
+## Overall SLAM pipeline with the proposed method, Waliner: 
 
 The colored box represents our proposed method, which aims to refine the initial pose using the Manhattan frame (MF) generated from lines extracted from walls using a deep learning-based method and a neural processing unit (NPU). 
 Additionally, we leverage VINS and RTAB-MAP for the initial pose estimation at the $k$-th step and 3D mapping, respectively. The refined pose enhances the accuracy of the SLAM process, particularly in environments with challenging visual features.
