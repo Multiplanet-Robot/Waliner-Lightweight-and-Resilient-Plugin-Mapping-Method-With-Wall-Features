@@ -21,10 +21,12 @@
  title={Waliner: Lightweight and Resilient Plugin Mapping Method With Wall Features for Visually Challenging Indoor Environments},
 	author={Noh, DongKi and Lee, Byunguk and Kim, Hanngyoo and Lee, SeungHwan and Kim, HyunSung and Kim, JuWon and Choi, Jeongsik and Baek, SeungMin},
 	journal={IEEE Robot. Automat. Lett.},
-	year={2025},  
- volume={TBD},
- number={TBD},
- pages={TBD},
+	year={2025},
+  	volume={10},
+        number={6},
+        pages={5799-5806},
+        keywords={Simultaneous localization and mapping;Feature extraction;Sensors;Robots;Three-dimensional displays;Pose estimation;Visualization;Service robots;Laser radar;Odometry;Building components;line measurements;mapping;Manhattan world assumptions},
+        doi={10.1109/LRA.2025.3562370}
 }
 </code>
 </pre>
